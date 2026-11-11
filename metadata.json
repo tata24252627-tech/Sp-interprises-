@@ -1,0 +1,6 @@
+{
+  "name": "Sp Interprises - Premium Cake Shop Panvel",
+  "description": "Modern, warm, and inviting local website for Sp Interprises, a premier cake shop in Navde, Panvel, Maharashtra featuring custom birthday cakes, wedding tiers, gourmet pastries, 100% eggless options, and local delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
